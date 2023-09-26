@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello
 
-<!--
-**AshTheArcticFox/AshTheArcticFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 21 bisexual furry fox. Cry about it.
 
-Here are some ideas to get you started:
+Gamer & tech enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Intermediate Dev.
+
+Taken by NoctisOkami.
+
+Co-Owner of the Night Furs Realm since 01/26/2019: https://discord.gg/dyxRwPS5AK
+
+![Night Furs Realm Banner](https://github.com/AshTheArcticFox/AshTheArcticFox/assets/63117808/be8abca0-343f-4c0d-92aa-dc0a6c9cda87)
+
+
+Tasks:
+- [x] Drink Monster
+- [ ] Game
+- [ ] Sleeb
+- [ ] Repeat
+
+
+~~`Now Fuck Off`~~ :middle_finger:
